@@ -1,0 +1,36 @@
+body {
+	font-family: Helvetica;
+	padding: 50px 20px 50px 20px;
+	text-transform: lowercase;
+	font-size: 20px;
+	margin-left: 20px;
+	background-color: #e7f4d1;
+
+}
+
+.text.four.columns {
+	margin-left: 50px;
+}
+
+
+.events {
+	background-color: #00a268;
+	padding: 60px;
+	border-top: 20px solid #ffb04b;
+	color: black;
+	text-transform: lowercase;
+	font-size: 16px;
+}
+
+.info {
+	background-color: #0070ab;
+	border-left: 20px solid #ffb04b;
+	color: black;
+	margin: 20px 250px 50px 50px;
+	padding: 40px 100px 40px 0px;
+	font-size: 40px;
+	line-height: 50px;
+	text-align: left;
+	text-transform: uppercase;
+	font-weight: bolder;
+}
